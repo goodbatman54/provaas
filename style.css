@@ -1,0 +1,42 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+.cabeçalho{
+background-color: rgb(71, 71, 189);
+color: rgb(19, 32, 6);
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px;
+
+}
+.cabeçalho-item{
+
+width: 20%;
+}
+
+.escola{
+background-image: linear-gradient(  black  white);
+color: aquamarine;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+
+}
+
+
+.escola-div-conteudo{
+
+width: 35%;
+}
+
+.escola-titulo{
+
+    padding: 42%;
+}
+
+
+
